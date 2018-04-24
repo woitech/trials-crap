@@ -2,7 +2,7 @@
 #### *Simple terminal calculator*
 ### 1. Description
 > Program calculates values of arithmetic expressions given
-> in the *infix* form, for example: 
+> in the *infix* form, for example:   
 > *2+3\*4*, *(2+3)\*4*, *((1+2)/(3\*4))-456*, etc.   
 > It executes 4 basic operations: **+**, **-**, __*__ and **/**.  
 ### 2. Installation and usage
